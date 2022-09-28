@@ -1,0 +1,2 @@
+CONTAINERNAME="go_server"
+PORT="12345"
